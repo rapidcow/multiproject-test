@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, rapidcow
+# This file is distributed under the same license as the woohoo-test
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: woohoo-test \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-13 11:02+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../../source/index.rst:9
+msgid "Contents:"
+msgstr "Semen"
+
+#: ../../../source/index.rst:7
+msgid "Welcome to woohoo-test's documentation!"
+msgstr "欢迎来到 woohoo-test 的文档！"
+
+#: ../../../source/index.rst:13
+msgid "This is an English sentence!"
+msgstr "这是一个中文句子！:D"
+
+#: ../../../source/index.rst:15
+msgid "This is an untranslated English sentence."
+msgstr ""
+
+#: ../../../source/index.rst:20
+msgid "Indices and tables"
+msgstr "索引和表格"
+
+#: ../../../source/index.rst:22
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../../source/index.rst:23
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../../source/index.rst:24
+msgid ":ref:`search`"
+msgstr ""
+
