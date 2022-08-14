@@ -21,7 +21,7 @@ multiproject_projects = {
         "path": ".",
         "use_config_file": False,
     },
-    "zh": {
+    "zh_CN": {
         "path": ".",
         "use_config_file": False,
     },
